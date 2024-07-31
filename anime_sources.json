@@ -1,0 +1,20 @@
+{
+    "extensions": [
+        {
+            "name": "Hentai Arabs",
+            "package": "com.example.hentairabs",
+            "apk": "hentairabs.apk",
+            "language": "ar",
+            "nsfw": true,
+            "base_url": "https://hentairabs.com"
+        },
+        {
+            "name": "Hentai Time",
+            "package": "com.example.hentaitime",
+            "apk": "hentaitime.apk",
+            "language": "ar",
+            "nsfw": true,
+            "base_url": "https://hentaitime.com"
+        }
+    ]
+}
